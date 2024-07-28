@@ -2,7 +2,7 @@
 Weather Now App
 
 Built a weather app - "Weather Now" - using Html, Css and JavaScript.  
-And deployed on Render.    
+And deployed it on Render.    
 
 [Check out the deployment on Render](https://weather-now10.onrender.com/))   
 
